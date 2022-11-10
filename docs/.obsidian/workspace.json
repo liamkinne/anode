@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "1abb5ab7e626f6b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "461e76cb93d3953d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4f02d9545bcb53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main_control_board.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9cd9de2e7c03147",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1400a3e60027e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e2fedd63e20a24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ed384f2d4a47b74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3a7a9fb518ca2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83600d869cd186d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fdb8523db271353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5897886017100841",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main_control_board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4915d72edc9e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main_control_board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f85901e08fe4e98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd33c738c9f01362",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main_control_board.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9a4f02d9545bcb53",
+  "lastOpenFiles": [
+    "ethernet.md",
+    "cooling.md",
+    "main_control_board.md",
+    "Pasted image 20221016195218.png",
+    "programming.md",
+    "programmable_outputs.md",
+    "control_panel.md"
+  ]
+}
